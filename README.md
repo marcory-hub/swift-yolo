@@ -19,6 +19,7 @@ This Google Colab notebook provides a complete training pipeline for deploying a
 - Google Colab account
 - Roboflow account with labeled dataset
 - Grove Vision AI V2 hardware (for deployment)
+- SenseCraft account
 
 ## Quick Start Guide
 
