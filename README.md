@@ -1,5 +1,7 @@
 # Swift-YOLO Training Notebook for Grove Vision AI V2
 
+> Note: This repository is kept in archive status to maintain Git submodule updates from external providers if needed. Feel free to reference the materials below, but be aware that dependencies or Colab workflows may require updates.
+
 ## Overview
 
 This Google Colab notebook provides a complete training pipeline for deploying a Swift-YOLO object detection model optimized for the **Grove Vision AI V2** module. Train custom models with your own dataset and deploy them to the SenseCraft AI platform.
